@@ -4,7 +4,6 @@
 
 🚀 DevOps Engineer with 6+ years of experience in Linux Administration, AWS, Kubernetes, CI/CD, Infrastructure Automation, and Production Support.
 
-- 🌍 Chennai, Tamil Nadu, India
 - ☁️ AWS | GCP | Kubernetes | Terraform
 - 🔐 DevSecOps | Cloud Security
 - 🌱 Learning Cloud Architecture & SRE
